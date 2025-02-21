@@ -21,7 +21,7 @@ author_profile: true
 
 
 <div class="justify-text">
-I am a Miller Postdoctoral Fellow at University of California, Berkeley, working with <a href="http://alchemy.cchem.berkeley.edu/home/">Prof. Jeffrey R. Long</a>. I received my Ph.D. in Chemistry from Massachusetts Institute of Technolgy with <a href="https://suessgroup.mit.edu/">Prof. Daniel L. M. Suess</a> and B.S. in Chemistry from University of Science and Technology of China with <a href="https://faculty.ustc.edu.cn/xiongyujie//">Prof. Yujie Xiong</a>.
+I am a Miller Postdoctoral Fellow at the University of California, Berkeley, working with <a href="http://alchemy.cchem.berkeley.edu/home/">Prof. Jeffrey R. Long</a>. I received my Ph.D. in Chemistry from Massachusetts Institute of Technology with <a href="https://suessgroup.mit.edu/">Prof. Daniel L. M. Suess</a> and B.S. in Chemistry from the University of Science and Technology of China with <a href="https://faculty.ustc.edu.cn/xiongyujie//">Prof. Yujie Xiong</a>.
 </div>
 
 <p></p>
@@ -33,7 +33,7 @@ I am dedicated to developing innovative synthetic methodologies to precisely con
 <p></p>
 
 <div class="justify-text">
-My research takes an interdisciplinary approach, integrating concepts from (bio)inorganic chemistry, physical inoragnic chemistry, organometallic chemistry, physical chemistry lanthanide chemistry, and materials science to foster meaningful discoveries. I bring expertise in (air-free)inorganic and organic synthesis, (paramagnetic)NMR, EPR, Mössbauer, BS-DFT Calculation,crystallography, magnetometry and electrochemistry.
+My research takes an interdisciplinary approach, integrating concepts from (bio)inorganic chemistry, physical inorganic chemistry, organometallic chemistry, physical chemistry, lanthanide chemistry, and materials science to foster meaningful discoveries. I bring expertise in (air-free)inorganic and organic synthesis, (paramagnetic)NMR, EPR, Mössbauer, BS-DFT Calculation, crystallography, magnetometry, and electrochemistry.
 </div>
 </body>
 </html>
