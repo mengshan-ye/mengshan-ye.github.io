@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-**8. [Reversible Alkyl-Group Migration between Iron and Sulfur in [Fe4S4] Clusters](https://pubs.acs.org/doi/full/10.1021/jacs.2c03195)**
+**8. [Reversible Alkyl-Group Migration between Iron and Sulfur in [Fe<sub>4</sub>S4] Clusters](https://pubs.acs.org/doi/full/10.1021/jacs.2c03195)**
 
   Ye, M.; Brown, A. C.; Suess, D. L. M., <i>J. Am. Chem. Soc.</i> 2022, <i>144</i>, 13174–13195
 
@@ -14,7 +14,7 @@ author_profile: true
 <p></p>
 <p></p>
 
-**7. [A Synthetic Model of Enzymatic [Fe4S4]–Alkyl Intermediates](https://pubs.acs.org/doi/10.1021/jacs.9b06975)**
+**7. [A Synthetic Model of Enzymatic [Fe<sub>4</sub>S4]–Alkyl Intermediates](https://pubs.acs.org/doi/10.1021/jacs.9b06975)**
   
   Ye, M.; Thompson, N. B.; Brown, A. C.; Suess, D. L. M., <i>J. Am. Chem. Soc.</i> 2019, <i>141</i>, 13330–13335
 
@@ -54,7 +54,7 @@ author_profile: true
 <p></p>
 <p></p>
 
-**2. [Enhanced O2 Reduction on Atomically Thin Pt-based Nanoshells by Integrating Surface Facet, Interfacial Electronic, and Substrate Stabilization Effects](https://link.springer.com/article/10.1007/s12274-017-1891-x)**
+**2. [Enhanced O<sub>2</sub> Reduction on Atomically Thin Pt-based Nanoshells by Integrating Surface Facet, Interfacial Electronic, and Substrate Stabilization Effects](https://link.springer.com/article/10.1007/s12274-017-1891-x)**
   
   Ye. W.; Sun, Z.; Wang, C.; Ye, M.; Chen, R.; Long, R.; Zheng, X.; Zhu, J.; Wu, X.; Xiong, Y., <i>Nano Res.</i> 2018, <i>11</i>, 3313–3326
 
@@ -62,7 +62,7 @@ author_profile: true
 <p></p>
 <p></p>
 
-**1. [Pt4PdCu0.4 Alloy Nanoframes as Highly Efficient and Robust Bifunctional Electrocatalysts for Oxygen Reduction Reaction and Formic Acid Oxidation](https://www.sciencedirect.com/science/article/pii/S2211285517304391)**
+**1. [Pt<sub>4</sub>PdCu<sub>0.4</sub> Alloy Nanoframes as Highly Efficient and Robust Bifunctional Electrocatalysts for Oxygen Reduction Reaction and Formic Acid Oxidation](https://www.sciencedirect.com/science/article/pii/S2211285517304391)**
   
   Ye, W.; Chen, S.; Ye, M.; Chen, R.; Ma, J.; Long, R.; Wang, C.; Yang, J.; Song, L.; Xiong, Y., <i>Nano Energy.</i> 2017, <i>39</i>, 532–538
 
