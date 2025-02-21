@@ -27,7 +27,13 @@ I am a Miller Postdoctoral Fellow at University of California, Berkeley, working
 <p></p>
 
 <div class="justify-text">
-I am interested in developing innovative synthetic methodologies to precisely control metal–metal and spin-spin interactions in molecular systems, thereby unlocking innovative reactivities and electronic properties. These advancements will drive significant progress in bioinorganic chemistry, catalysis, lanthanide chemistry, materials science, and quantum information science, addressing fundamental scientific challenges and global sustainability needs.
+I am dedicated to developing innovative synthetic methodologies to precisely control metal–metal and spin-spin interactions in molecular systems, thereby unlocking innovative reactivities and electronic properties. These advancements will drive significant progress in bioinorganic chemistry, catalysis, lanthanide chemistry, materials science, and quantum information science, addressing fundamental scientific challenges and global sustainability needs. 
+</div>
+
+<p></p>
+
+<div class="justify-text">
+My research takes an interdisciplinary approach, integrating concepts from (bio)inorganic chemistry, physical inoragnic chemistry, organometallic chemistry, physical chemistry lanthanide chemistry, and materials science to foster meaningful discoveries. I bring expertise in (air-free)inorganic and organic synthesis, (paramagnetic)NMR, EPR, Mössbauer, BS-DFT Calculation,crystallography, magnetometry and electrochemistry.
 </div>
 </body>
 </html>
