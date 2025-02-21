@@ -13,19 +13,6 @@ author_profile: true
   
   Ye, M.; Thompson, N. B.; Brown, A. C.; Suess, D. L. M., <i>J. Am. Chem. Soc.</i> 2019, <i>141</i>, 13330–13335
 
-* Spin-state Tuning of Iron-Sulfur Clusters via Ligand Field and
-Symmetric Effects
-  
-  Ye, M.; Skeel, B. A.; Suess, D. L. M., <i>to be submitted</i>
-
-* Isolation of a Two-Coordinate Dysprosium Single-Molecule Magnet
-  
-  Ye, M.; Gould, C.; Lu, D.; Haghgoo, N.; Long, J. R., <i>manuscript in preparation</i>
-
-* Detecting and Mapping Magnetic Fields with Optically Addressable Qubits
-  
-  Ye, M.; Greer, R.; Murphy, R.; Huang, A. J.; Patel, P.; Lu, D.; Freedman, D. E.; Long, J. R., <i>manuscript in preparation</i>
-
 * [Cooperative Carbon Dioxide Capture in Diamine-Appended Magnesium-Olsalazine Frameworks](https://pubs.acs.org/doi/10.1021/jacs.3c03870)
 
   Zhu, Z.; Parker, S. T.; Forse, A. C.; Lee, J.-H.; Siegelman, R. L.; Milner, P. J.; Tsai, H.; Ye, M.,; Paley, M.; Uliana, A. A.; Oktawiec, J.; Dinakar, B.; Didas, S. A.; Meihaus, K. R.; Reimer, J. A.; Neaton, J. B.; Long, J. R., <i>J. Am. Chem. Soc.</i> 2023, <i>145</i>, 17151–17163
