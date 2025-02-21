@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-**8. [Reversible Alkyl-Group Migration between Iron and Sulfur in [Fe<sub>4</sub>S4] Clusters](https://pubs.acs.org/doi/full/10.1021/jacs.2c03195)**
+**8. [Reversible Alkyl-Group Migration between Iron and Sulfur in [Fe<sub>4</sub>S<sub>4</sub>] Clusters](https://pubs.acs.org/doi/full/10.1021/jacs.2c03195)**
 
   Ye, M.; Brown, A. C.; Suess, D. L. M., <i>J. Am. Chem. Soc.</i> 2022, <i>144</i>, 13174–13195
 
@@ -14,7 +14,7 @@ author_profile: true
 <p></p>
 <p></p>
 
-**7. [A Synthetic Model of Enzymatic [Fe<sub>4</sub>S4]–Alkyl Intermediates](https://pubs.acs.org/doi/10.1021/jacs.9b06975)**
+**7. [A Synthetic Model of Enzymatic [Fe<sub>4</sub>S<sub>4</sub>]–Alkyl Intermediates](https://pubs.acs.org/doi/10.1021/jacs.9b06975)**
   
   Ye, M.; Thompson, N. B.; Brown, A. C.; Suess, D. L. M., <i>J. Am. Chem. Soc.</i> 2019, <i>141</i>, 13330–13335
 
