@@ -52,7 +52,7 @@ author_profile: true
 
 ## Teaching Experience
 
-* **Massachusetts Institute of Technology2**
+* **Massachusetts Institute of Technology**
   * Principles of Chemical Science (2017)
   * Laboratory Chemistry (2019)
 * **University of Science and Technology of China**
