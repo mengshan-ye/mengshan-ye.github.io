@@ -10,6 +10,7 @@ author_profile: true
 
 * **Vanderbilt University, Aug 2025 (expected)**
   * Assistant Professor
+  * Department of Chemistry
 
 * **University of California, Berkeley, 2022-2025 (expected)**
   * Miller postdoctoral fellow
