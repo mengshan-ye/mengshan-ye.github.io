@@ -8,6 +8,9 @@ author_profile: true
 
 ## Professional Positions
 
+* **Vanderbilt University, Aug 2025 (expected)**
+  * Assistant Professor
+
 * **University of California, Berkeley, 2022-2025 (expected)**
   * Miller postdoctoral fellow
   * Host: [Prof. Jeffrey R. Long](http://alchemy.cchem.berkeley.edu/home/)
